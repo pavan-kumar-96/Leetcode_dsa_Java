@@ -6,7 +6,7 @@ class Solution {
             int Element = nums[i];
             Majority.put(Element, Majority.getOrDefault(Element, 0) + 1);
         }
-        int ans = 0;
+        int ans = -1;
         for (int major : Majority.keySet()) {
             if (Majority.get(major) > n) {
                 ans = major;
