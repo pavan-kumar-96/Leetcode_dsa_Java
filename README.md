@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1512-number-of-good-pairs) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0205-isomorphic-strings) |
 | [0771-jewels-and-stones](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
