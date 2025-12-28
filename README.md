@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0766-toeplitz-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1512-number-of-good-pairs) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0645-set-mismatch) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
 |  |
 | ------- |
@@ -91,4 +93,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
