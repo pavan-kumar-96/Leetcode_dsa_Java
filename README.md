@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
