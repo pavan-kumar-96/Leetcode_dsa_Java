@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1512-number-of-good-pairs](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1512-number-of-good-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1004-max-consecutive-ones-iii) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
