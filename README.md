@@ -87,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2325-decode-the-message](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2325-decode-the-message) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/3110-score-of-a-string) |
+| [3174-clear-digits](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3174-clear-digits](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/3174-clear-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0682-baseball-game) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3174-clear-digits](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
