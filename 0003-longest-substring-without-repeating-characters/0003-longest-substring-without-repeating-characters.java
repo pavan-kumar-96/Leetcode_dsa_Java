@@ -4,14 +4,15 @@ class Solution {
         int ans = 0;
         HashSet<Character> hs = new HashSet<>();
         for (int r = 0; r < s.length(); r++) {
-            if (!hs.contains(s.charAt(r))) {
-                hs.add(s.charAt(r));
+            char ch = s.charAt(r);
+            if (!hs.contains(ch)) {
+                hs.add(ch);
             } else {
-                while (hs.contains(s.charAt(r))) {
+                while (hs.contains(ch)) {
                     hs.remove(s.charAt(l));
                     l++;
                 }
-                hs.add(s.charAt(r));
+                hs.add(ch);
             }
             ans = Math.max(ans, r - l + 1);
         }
