@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1512-number-of-good-pairs](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
 | ------- |
