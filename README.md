@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
+| [0410-split-array-largest-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0704-binary-search) |
@@ -94,9 +95,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -166,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1248-count-number-of-nice-subarrays) |
