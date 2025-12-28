@@ -4,7 +4,9 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             char ch = s.charAt(i);
             if (Character.isDigit(ch)) {
-                st.pop();
+                if (!st.empty()) {
+                    st.pop();
+                }
             } else {
                 st.push(ch);
             }
