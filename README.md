@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Divide and Conquer
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
 |  |
