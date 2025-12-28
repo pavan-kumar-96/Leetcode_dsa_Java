@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -185,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0682-baseball-game) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
