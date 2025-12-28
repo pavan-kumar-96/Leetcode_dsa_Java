@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0875-koko-eating-bananas) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
