@@ -6,7 +6,6 @@ class Solution:
             if keys!=" " and keys not in dici:
                 dici[keys]=chr(temp)
                 temp+=1
-        print(dici)
         ans=""
         for i in message:
             if i==" ":
