@@ -2,9 +2,8 @@ class Solution {
     public static boolean isPossible(int piles[], int h, int k) {
         int ans = 0;
         for (int i = 0; i < piles.length; i++) {
-            int val = piles[i];
-            ans = val / k;
-            if (val % k != 0) {
+            ans = piles[i] / k;
+            if (piles[i] % k != 0) {
                 ans++;
             }
             h -= ans;
