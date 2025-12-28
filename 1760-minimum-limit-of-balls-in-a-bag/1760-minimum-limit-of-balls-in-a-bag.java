@@ -3,10 +3,9 @@ class Solution {
         int ans = 0;
         for (int i = 0; i < nums.length; i++) {
             ans = nums[i] / mid;
-            if (nums[i] % mid != 0) {
-                ans++;
+            if (nums[i] % mid == 0) {
+                ans--;
             }
-            ans--;
             maxOperations -= ans;
             if (maxOperations < 0) {
                 return false;
