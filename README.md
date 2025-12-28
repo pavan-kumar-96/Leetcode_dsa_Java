@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0645-set-mismatch) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1004-max-consecutive-ones-iii) |
@@ -122,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
