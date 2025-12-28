@@ -13,6 +13,7 @@ class Solution {
         }
         return true;
     }
+
     public int minEatingSpeed(int[] piles, int h) {
         int l = 1;
         int r = (int) Math.pow(10, 9);
