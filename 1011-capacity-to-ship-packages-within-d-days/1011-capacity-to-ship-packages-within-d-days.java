@@ -18,7 +18,7 @@ class Solution {
         return true;
     }
     public int shipWithinDays(int[] weights, int days) {
-        int l = 0;
+        int l = 1;
         int r = (int) Math.pow(5 * 10, 9);
         while (l <= r) {
             int mid = l + (r - l) / 2;
