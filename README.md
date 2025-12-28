@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0766-toeplitz-matrix) |
 | [0904-fruit-into-baskets](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0930-binary-subarrays-with-sum) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
