@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0766-toeplitz-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0645-set-mismatch) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## String
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Divide and Conquer
 |  |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
