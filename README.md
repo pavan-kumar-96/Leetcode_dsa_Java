@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
