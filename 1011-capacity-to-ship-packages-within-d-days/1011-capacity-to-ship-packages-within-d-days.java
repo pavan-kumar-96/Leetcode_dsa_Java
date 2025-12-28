@@ -19,7 +19,7 @@ class Solution {
     }
     public int shipWithinDays(int[] weights, int days) {
         int l = 1;
-        int r = (int) Math.pow(5 * 10, 9);
+        int r = Integer.MAX_VALUE;
         while (l <= r) {
             int mid = l + (r - l) / 2;
             if (isPossible(weights, days, mid)) {
