@@ -1,9 +1,11 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        int l = 0, ans = 0;
+        int n = fruits.length;
+        int ans = 0;
+        int count = 0;
         HashMap<Integer, Integer> hm = new HashMap<>();
-
-        for (int r = 0; r < fruits.length; r++) {
+        int l = 0;
+        for (int r = 0; r < n; r++) {
             hm.put(fruits[r], hm.getOrDefault(fruits[r], 0) + 1);
 
             while (hm.size() > 2) {
@@ -16,7 +18,6 @@ class Solution {
 
             ans = Math.max(ans, r - l + 1);
         }
-
         return ans;
     }
 }
