@@ -1,27 +1,27 @@
 class Solution {
     public int maxConsecutiveAnswers(String answerKey, int k) {
-        int cntt = 0;
-        int cntf = 0;
+        int n = answerKey.length();
         int ans = 0;
+        int countT = 0;
+        int countF = 0;
         int l = 0;
-        for (int r = 0; r < answerKey.length(); r++) {
-            char cr = answerKey.charAt(r);
-            if (cr == 'T') {
-                cntt++;
+        for (int r = 0; r < n; r++) {
+            if (answerKey.charAt(r) == 'T') {
+                countT++;
             } else {
-                cntf++;
+                countF++;
             }
-            while (Math.min(cntt, cntf) > k) {
-                char cl = answerKey.charAt(l);
-                if (cl == 'T') {
-                    cntt--;
+
+            while (Math.min(countT, countF) > k) {
+                if (answerKey.charAt(l) == 'T') {
+                    countT--;
                 } else {
-                    cntf--;
+                    countF--;
                 }
                 l++;
             }
-            ans = Math.max(ans, r - l + 1);
 
+            ans = Math.max(ans, r - l + 1);
         }
         return ans;
     }
