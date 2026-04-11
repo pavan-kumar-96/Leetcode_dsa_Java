@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
 | [0410-split-array-largest-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0410-split-array-largest-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1512-number-of-good-pairs](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
@@ -209,4 +211,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
