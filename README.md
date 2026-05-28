@@ -217,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
