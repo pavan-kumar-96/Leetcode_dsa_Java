@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0283-move-zeroes) |
