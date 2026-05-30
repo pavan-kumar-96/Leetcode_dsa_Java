@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0930-binary-subarrays-with-sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1552-magnetic-force-between-two-balls) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
