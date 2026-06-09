@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0645-set-mismatch) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0875-koko-eating-bananas) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavan-kumar-96/Leetcode_dsa_Java/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
