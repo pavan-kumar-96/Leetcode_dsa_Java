@@ -1,6 +1,6 @@
 class Solution {
     public int pivotIndex(int[] nums) {
-        int n = nums.length;
+       int n = nums.length;
         ArrayList<Integer> prefix = new ArrayList<>();
         ArrayList<Integer> suffix = new ArrayList<>();
         prefix.add(nums[0]);
@@ -19,6 +19,6 @@ class Solution {
                 return j;
             }
         }
-        return -1;
+        return -1; 
     }
 }
